@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  // Array of strings that form the pattern:
+  // Array of pointers to strings that form the pattern:
   char *a[] = {
     "********* ",
     "*   *   * ",
